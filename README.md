@@ -4,7 +4,7 @@
   </a><br>
 
   <h1>神代枫 with ZeroBot-Plugin</h1>
-  ZeroBot-Plugin for 神代枫的CustomVersion<br><br>
+  ZeroBot-Plugin for 神代枫巫女 CustomVersion<br><br>
 
 
   
@@ -18,9 +18,9 @@
   [![zerobot](https://img.shields.io/badge/zerobot-v1.5.1-black?style=flat-square&logo=go)](https://github.com/wdvxdr1123/ZeroBot)
   [![license](https://img.shields.io/github/license/FloatTech/ZeroBot-Plugin.svg?style=flat-square&logo=gnu)](https://raw.githubusercontent.com/FloatTech/ZeroBot-Plugin/master/LICENSE)
   [![tencent-qq](https://img.shields.io/badge/group-675288706-red?style=flat-square&logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=QMb7x1mM)
-  [![telegram]()](https://t.me/zerobotplugin)
 
-  本项目符合 [OneBot](https://github.com/howmanybots/onebot) 标准，可基于以下项目与机器人框架/平台进行交互
+  本项目符合 [OneBot](https://github.com/howmanybots/onebot) 标准，可基于以下项目与机器人框架/平台进行交互<br>
+  本Fork中相关配置项已为bot「神代枫」写死，如需使用请fork原repo！
   | 项目地址 | 平台 | 核心作者 |
   | --- | --- | --- |
   | [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | [MiraiGo](https://github.com/Mrs4s/MiraiGo) | Mrs4s |

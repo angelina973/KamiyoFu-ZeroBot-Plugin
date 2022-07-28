@@ -60,6 +60,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/b14"      // base16384加解密
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"    // 百度一下
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili" // b站相关
+
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/book_review"   // 哀伤雪刃吧推书记录
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi"    // 藏头诗
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/char_reverser" // 英文字符翻转
@@ -68,6 +69,7 @@ import (
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"         // 三次元小姐姐
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cpstory"  // cp短打
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/danbooru" // DeepDanbooru二次元图标签识别
+
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"         // 嘉心糖发病
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/drift_bottle"  // 漂流瓶
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/emojimix"      // 合成emoji
@@ -78,6 +80,7 @@ import (
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/genshin"       // 原神抽卡
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"    // 制图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/github" // 搜索GitHub仓库
+
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/guessmusic"    // 猜歌
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hs" // 炉石
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hyaku"         // 百人一首
@@ -202,7 +205,7 @@ func init() {
 
 	// 通过代码写死的方式添加主人账号
 	sus = append(sus, 3198844292)
-	//sus = append(sus, 746969370)
+	// sus = append(sus, 746969370)
 
 	if *runcfg != "" {
 		f, err := os.Open(*runcfg)

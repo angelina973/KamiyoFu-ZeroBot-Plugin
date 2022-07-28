@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://crypko.ai/crypko/5k8HyUVTq5421/">
-  <img src=".github/黒金.jpg" alt="看板娘" width = "400">
+  <img src="." alt="看板娘" width = "400">
   </a><br>
 
-  <h1>ZeroBot-Plugin</h1>
-  ZeroBot-Plugin 是 ZeroBot 的 实用插件合集<br><br>
+  <h1>神代枫 with ZeroBot-Plugin</h1>
+  ZeroBot-Plugin for 神代枫的CustomVersion<br><br>
 
 
-  <img src="http://cmoe.azurewebsites.net/cmoe?name=ZeroBot-Plugin&theme=r34" /><br>
+  <img src="" /><br>
 
   [![miraigo](https://img.shields.io/badge/OneBot-MiraiGo-green.svg?style=social&logo=appveyor)](https://github.com/Mrs4s/MiraiGo)
   [![oicq](https://img.shields.io/badge/OneBot-OICQ-green.svg?style=social&logo=appveyor)](https://github.com/takayama-lily/oicq)
@@ -53,11 +53,7 @@ zerobot [-c config.json] [-h] [-s config.json] [-t token] [-u url] [-n nickname]
 ```json
 {
     "zero": {
-        "nickname": [
-            "椛椛",
-            "ATRI",
-            "atri",
-            "亚托莉",
+        "nickname": 
             "アトリ"
         ],
         "command_prefix": "/",

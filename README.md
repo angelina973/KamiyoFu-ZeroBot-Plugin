@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://crypko.ai/crypko/5k8HyUVTq5421/">
-  <img src="." alt="看板娘" width = "400">
+  <img src=".jpg" alt="看板娘" width = "400">
   </a><br>
 
   <h1>神代枫 with ZeroBot-Plugin</h1>
   ZeroBot-Plugin for 神代枫的CustomVersion<br><br>
 
 
-  <img src="" /><br>
+  <img src="https://github.com/angelina973/ZeroBot-Plugin/blob/master/kamiyo%20fu" /><br>
 
   [![miraigo](https://img.shields.io/badge/OneBot-MiraiGo-green.svg?style=social&logo=appveyor)](https://github.com/Mrs4s/MiraiGo)
   [![oicq](https://img.shields.io/badge/OneBot-OICQ-green.svg?style=social&logo=appveyor)](https://github.com/takayama-lily/oicq)

@@ -29,7 +29,7 @@ import (
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleep_manage" // 统计睡眠时间
 
-	   _ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
 
@@ -56,8 +56,8 @@ import (
 	//                               vvvv                               //
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_false"      // 服务器监控
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"   // 随机老婆
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/b14"      // base16384加解密
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife" // 随机老婆
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/b14"      // base16384加解密
 	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"    // 百度一下
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili" // b站相关
 
@@ -105,7 +105,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/runcode" // 在线运行代码
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"      // 以图搜图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale" // 叔叔的AI二次元图片放大
-		_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"         // 分数
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score" // 分数
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"      // 来份涩图
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao"       // 沙雕app
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shindan"       // 测定
@@ -115,9 +115,9 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/translation" // 翻译
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/vtb_quotation" // vtb语录
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wangyiyun"     // 网易云音乐热评
-		_ "github.com/FloatTech/ZeroBot-Plugin/plugin/word_count"    // 聊天热词
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/word_count" // 聊天热词
 	//	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle"        // 猜单词
-		_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"         // 月幕galgame
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal" // 月幕galgame
 
 	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
 

@@ -7,7 +7,7 @@
   ZeroBot-Plugin for 神代枫的CustomVersion<br><br>
 
 
-  <img src="https://github.com/angelina973/ZeroBot-Plugin/blob/master/" /><br>
+  
 
   [![miraigo](https://img.shields.io/badge/OneBot-MiraiGo-green.svg?style=social&logo=appveyor)](https://github.com/Mrs4s/MiraiGo)
   [![oicq](https://img.shields.io/badge/OneBot-OICQ-green.svg?style=social&logo=appveyor)](https://github.com/takayama-lily/oicq)

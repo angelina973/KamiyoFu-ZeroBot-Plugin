@@ -9,8 +9,8 @@ import (
 
 var (
 	info = [...]string{
-		"* OneBot + ZeroBot + Golang",
-		"* Version 1.5.0-beta5 - 2022-07-22 15:39:17 +0800 CST",
+		"* OneBot + ZeroBot + Golang + Angelina973mod",
+		"* Version 1.5.0-b5.rc1 - 2022-07-28 12:37:17 +0800 CST",
 		"* Copyright © 2020 - 2022 FloatTech. All Rights Reserved.",
 		"* Project: https://github.com/FloatTech/ZeroBot-Plugin",
 	}
@@ -22,9 +22,9 @@ var (
 // PrintBanner ...
 func PrintBanner() {
 	fmt.Print(
-		"\n======================[ZeroBot-Plugin]======================",
+		"\n============================================",
 		"\n", Banner, "\n",
-		"----------------------[ZeroBot-公告栏]----------------------",
+		"--------------------------------------------",
 		"\n", Kanban(), "\n",
 		"============================================================\n\n",
 	)
